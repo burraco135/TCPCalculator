@@ -1,2 +1,2 @@
 # TCPCalculator
-A simple calculator made with TCP protocoll
+A simple calculator made with TCP protocol
